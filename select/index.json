@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "るてん",
+  "base_artist": "Chevon",
+  "createdAt": "2026-03-29T09:20:20.559522Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "るてん",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_るてん_Chevon.txt"
+    }
+  ]
+}
